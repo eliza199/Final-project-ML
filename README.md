@@ -15,9 +15,15 @@ Examples of results of model:
 ![image](https://user-images.githubusercontent.com/80292602/112243225-45c0a680-8c5e-11eb-8a69-57be38fcf162.png)
 
 The main contributions of this project:
+
 1.Collected datasets of content images and style reference images.
+
 2.Implemented Gram matrix and applied it to Multi-transfer style
+
 3.Implemented loss function from paper for preserving content of one image and get a good approximation of the styles of both style images
+
 4.Implemented another style and content loss functions and considered obtained results.
+
 5.Considered some GANs alghorithms.
+
 6.Reproduced the experiment with a smaller neural network for the purpose of operating in a limited resources mode.
