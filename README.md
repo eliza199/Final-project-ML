@@ -4,6 +4,12 @@ Here we provided some examples of neural style transfer task using pretrained on
 
 Also we provided multiple style transfer - a problem, where we transfer style from two input style pictures to content with some weights.
 
+link to the presentation of project - https://docs.google.com/presentation/d/18B0d7wndljsc6NDBHilRXaNs3QO3VIBKv1tAE86KdOU/edit#slide=id.p
+
+link to the video presentation of project - https://drive.google.com/file/d/1ZPQQec8k8RZ9OsVY4JGB6SR33JSkccXh/view
+
+link to datasets of content and style images - https://drive.google.com/drive/folders/1HUI-FJXNmB_rQovOyswq39vLmZE0AZBh?usp=sharing
+
 Examples of results of model:
 
 ![image](https://user-images.githubusercontent.com/80292602/112242727-7e13b500-8c5d-11eb-8a86-b1f7233be5f5.png)
@@ -27,7 +33,3 @@ The main contributions of this project:
 5.Considered some GANs alghorithms.
 
 6.Reproduced the experiment with a smaller neural network for the purpose of operating in a limited resources mode.
-
-link to the presentation of project - https://docs.google.com/presentation/d/18B0d7wndljsc6NDBHilRXaNs3QO3VIBKv1tAE86KdOU/edit#slide=id.p
-
-link to the video presentation of project - https://drive.google.com/file/d/1ZPQQec8k8RZ9OsVY4JGB6SR33JSkccXh/view
