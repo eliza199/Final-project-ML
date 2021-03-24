@@ -27,3 +27,7 @@ The main contributions of this project:
 5.Considered some GANs alghorithms.
 
 6.Reproduced the experiment with a smaller neural network for the purpose of operating in a limited resources mode.
+
+link to the presentation of project - https://docs.google.com/presentation/d/18B0d7wndljsc6NDBHilRXaNs3QO3VIBKv1tAE86KdOU/edit#slide=id.p
+
+link to the video presentation of project - https://drive.google.com/file/d/1ZPQQec8k8RZ9OsVY4JGB6SR33JSkccXh/view
